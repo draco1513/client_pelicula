@@ -1,0 +1,7 @@
+export const CODES = {
+    SUCCESS_200: 200,
+    BAD_TOKEN_498: 498,
+    CREATE_201: 201,
+    ERROR_400: 400,
+    DELETE_204: 204
+}
